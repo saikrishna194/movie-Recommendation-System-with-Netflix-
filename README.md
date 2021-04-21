@@ -1,9 +1,7 @@
 # movie-Recommendation-System-with-Netflix-
 
-Problem Statement
 Netflix provided a lot of anonymous rating data, and a prediction accuracy bar that is 10% better than what Cinematch can do on the same training data set. (Accuracy is a measurement of how closely predicted ratings of movies match subsequent actual ratings.)
 
-Problem Description
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed 
 world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie 
 based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes.
